@@ -128,3 +128,12 @@
   background: rgba(255, 255, 255, 0.6);
   filter: blur(750px);
 }
+
+.client__gradient:hover {
+  background: rgb(255, 255, 255);
+  /* filter: blur(50px); */
+}
+
+/* .client_highlight:hover {
+  background: white
+} */
