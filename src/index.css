@@ -130,10 +130,6 @@
 }
 
 .client__gradient:hover {
-  background: rgb(255, 255, 255);
+  background: rgb(190, 189, 189);
   /* filter: blur(50px); */
 }
-
-/* .client_highlight:hover {
-  background: white
-} */
